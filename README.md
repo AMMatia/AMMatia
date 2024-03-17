@@ -15,7 +15,7 @@ Soy Matías, un técnico electromecánico que ha decidido aventurarse en el emoc
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 ## Contacto:
-<a href = "https://www.linkedin.com/in/matiasadrmaid/"> <img src= "https://github.com/AMMatia/MMaidana/assets/119637768/9febe9a6-57c7-4e81-bc79-9388bb45372f" width = "40" height = "40"></a>
-<a href = "adrianm.m-@hotmail.com"> <img src = "https://github.com/AMMatia/MMaidana/assets/119637768/5b01622d-9f85-4837-915a-8e8046598ee3" width = "60" height = "40"> </a>
+<a href = "https://www.linkedin.com/in/matiasadrmaid/"> <img src= "https://github.com/AMMatia/AMMatia/assets/119637768/e0a4d9e2-61dc-49f9-88f1-963f640ed955" width = "40" height = "40"></a>
+<a href = "adrianm.m-@hotmail.com"> <img src = "https://github.com/AMMatia/AMMatia/assets/119637768/9624374e-6b9a-47bb-ae1b-9dfeb4735c32" width = "60" height = "40"> </a>
 
 
