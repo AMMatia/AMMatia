@@ -16,6 +16,5 @@ Soy Matías, un técnico electromecánico que ha decidido aventurarse en el emoc
 
 ## Contacto:
 <a href = "https://www.linkedin.com/in/matiasadrmaid/"> <img src= "https://github.com/AMMatia/AMMatia/assets/119637768/e0a4d9e2-61dc-49f9-88f1-963f640ed955" width = "40" height = "40"></a>
-<a href = "adrianm.m-@hotmail.com"> <img src = "https://github.com/AMMatia/AMMatia/assets/119637768/9624374e-6b9a-47bb-ae1b-9dfeb4735c32" width = "60" height = "40"> </a>
 
 
